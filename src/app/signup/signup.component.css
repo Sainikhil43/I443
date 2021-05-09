@@ -1,0 +1,15 @@
+.n{
+    background-color: black;
+    color: rgb(238, 231, 225);
+    text-align: center;
+  }
+  #n4{
+    color: rgb(254, 254, 255);
+    text-align: center;
+  }
+  body{
+    background-color: rgb(163, 253, 253);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

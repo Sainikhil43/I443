@@ -1,0 +1,15 @@
+.n{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+  }
+  #n4{
+    color: aliceblue;
+    text-align: center;
+  }
+  body{
+      background-image: url("../../assets/pics/abstract-white-shapes.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

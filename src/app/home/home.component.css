@@ -1,0 +1,38 @@
+
+
+.bg{
+    background-color: rgb(160, 247, 199);
+      height: 1300px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-left: 200px;
+      padding-right: 200px;
+  
+  }
+  h1,p{
+    color: black;
+  }
+  .pc{
+    text-align: left;
+    padding-left: 0px;
+  }
+  h1{
+    padding-left: 250px;
+  }
+  p{
+    font-size: larger;
+    
+  }
+  .carousel-inner{
+  padding-left: 30px;
+  }
+  .n{
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  #n4{
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }

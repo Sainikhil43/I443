@@ -1,0 +1,17 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url(../assets/pics/home2.jpg);
+}
+.nav-item {
+    color: darkgray;
+}
+li a:hover {
+    background-color: rgb(190, 190, 190);
+  }
+  #nd{
+    padding-left:600px ;
+  }
