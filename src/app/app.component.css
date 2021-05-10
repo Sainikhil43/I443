@@ -4,7 +4,7 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 body{
-    background-image: url(../assets/pics/home2.jpg);
+    background-image: url(../assets/home2.jpg);
 }
 .nav-item {
     color: darkgray;
